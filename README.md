@@ -96,8 +96,9 @@ A fully local chatbot that answers questions from your PDFs with page-level cita
 
 ### 🚗 [License Plate Recognition](https://github.com/syedamanals86-debug/License_plate_recg)
 Detects license plates in uploaded videos and reads their text.
-- YOLOv11 detection trained on a Roboflow dataset, with EasyOCR text recognition
-- Results stored in MySQL with timestamps and confidence scores, plus CSV export
+- YOLOv11 detection fine-tuned on a Roboflow dataset (50 epochs, 640 px), with EasyOCR text recognition
+- Samples video frames and returns unique plates with confidence scores and timestamps
+- Results stored in MySQL, with CSV export and a Flask web interface for uploading videos and reviewing past analyses
 
 `Python` `Flask` `OpenCV` `YOLOv11` `EasyOCR` `MySQL`
 
@@ -108,8 +109,9 @@ Analyzes cryptocurrency market trends and financial risk, with a dashboard to tr
 
 ### 🌿 [Plant Disease Diagnosis System](https://github.com/syedamanals86-debug/Plant_disease_diagnosis_system)
 Identifies plant diseases from leaf images and suggests remedies.
-- Deep learning model with a web interface
-- Multilingual support: English, Hindi, Urdu, and Kannada
+- Deep learning model built with TensorFlow and Keras, organized as a modular pipeline for data loading, training, evaluation, and prediction
+- Web interface (HTML, CSS, JavaScript) where users upload a leaf photo and get the diagnosis with disease information and recommended solutions
+- Multilingual support in English, Hindi, Urdu, and Kannada to make it usable for local farmers
 
 `Python` `TensorFlow` `Keras` `HTML/CSS/JS`
 
