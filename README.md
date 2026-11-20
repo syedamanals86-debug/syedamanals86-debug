@@ -22,7 +22,7 @@ I'm a Computer Science graduate who enjoys turning data into working AI products
 | 🎓 **Education** | B.E. in Computer Science and Engineering (VTU, 2026) · M.Tech in Computer Science and Engineering (2026 to 2028) |
 | 💼 **Experience** | 4-month Data Science and AI/ML Internship, Era Foundation: data cleaning, EDA, feature engineering, visualization |
 | 🌱 **Learning** | Agentic AI, RAG evaluation, model deployment |
-| 📍 **Location** | Kalaburagi, India |
+| 📍 **Location** | Dammam, Saudi Arabia |
 
 ---
 
